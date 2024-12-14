@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Dev <strong>fullstack</strong> com conhecimentos em <strong>ReactJS</strong>, <strong>Express</strong>,<strong>MongoDB</strong> e <strong>PL/SQL</strong> .Atualmente cursando <strong>Ciências da Computação</strong> na UFPE, comecei a programar por voltar de 2016 enquanto dese. Tento sempre criar aplicações interativas ou que possam de alguma forma ser divertidas para o usuário, como demonstração do meu trabalho, convido você a explorar minha <a href="https://erbert-gadelha.github.io/meu-site/" target="_blank">página pessoal</a> .
+Dev <strong>fullstack</strong> com conhecimentos em <strong>Java Spring</strong>, <strong>AngularJs</strong>, <strong>ReactJS</strong>, <strong>Express</strong>,<strong>MongoDB</strong> e <strong>PL/SQL</strong> .Atualmente cursando <strong>Ciências da Computação</strong> na UFPE, comecei a programar por voltar de 2016 enquanto dese. Tento sempre criar aplicações interativas ou que possam de alguma forma ser divertidas para o usuário, como demonstração do meu trabalho, convido você a explorar minha <a href="https://erbert-gadelha.github.io/meu-site/" target="_blank">página pessoal</a> .
 </p>
 
 <p align="left">
